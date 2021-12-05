@@ -17,9 +17,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
+    student.cpp \
+    teacher.cpp \
     widget.cpp
 
 HEADERS += \
+    student.h \
+    teacher.h \
     widget.h
 
 FORMS += \
